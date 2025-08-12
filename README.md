@@ -1,2 +1,2 @@
-# ai-trading
+# ai-trading-site
 AI Trading
