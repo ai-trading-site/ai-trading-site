@@ -1,0 +1,2 @@
+# ai-trading
+AI Trading
